@@ -1,0 +1,7 @@
+Questions and Answers
+
+1. What are the four levels of exception safety? No-throw guarantee, String Exception safety, Basic Exception safety
+and No Exception safety
+2. How many catch blocks can there be with a single try block? one.
+3. Which exceptions are children of the logic error exception? Invalid argument, Out of range and length error
+4. Which exceptions are children of the runtime error exception? Overflow_error, Underflow error and Range error.
